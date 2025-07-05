@@ -138,3 +138,4 @@ with cols[2]:
 
 # 🧡 Pie de página
 st.markdown("<div class='footer'>Creado con ❤ por </div>", unsafe_allow_html=True)
+CHUPA PENES.
