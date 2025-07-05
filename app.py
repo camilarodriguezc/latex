@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="📘 Manual LaTeX", page_icon="📘", layout="wide")
 
 # 🌈 Estilos personalizados
-st.markdown("""
+st.markdown(""
 <style>
   body { background-color: #f0f4f8; }
   .title { color: #3366cc; text-align: center; }
